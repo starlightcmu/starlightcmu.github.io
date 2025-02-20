@@ -31,7 +31,7 @@ src/
 └── styles/            # CSS and styling files
 ```
 
-## 🚧 Maintenance Mode
+## Maintenance Mode
 
 The website includes a maintenance overlay that can be toggled on/off using a single variable:
 
@@ -43,7 +43,7 @@ export const MAINTENANCE_MODE = true;
 3. Set it to `false` to disable the maintenance overlay and show the full website
 4. Set it to `true` to enable the maintenance overlay
 
-## 📝 Making Changes
+## Making Changes
 
 ### Updating Content
 
@@ -150,7 +150,7 @@ The website uses Tailwind CSS for styling. The main configuration is in:
 2. Add the route in `src/App.tsx`
 3. Add the navigation link in `src/components/Navbar.tsx`
 
-## 🚀 Deployment
+## Deployment
 
 The website is automatically deployed to GitHub Pages when changes are pushed to the main branch. The deployment process is handled by the GitHub Actions workflow in `.github/workflows/deploy.yml`.
 
@@ -187,22 +187,6 @@ The website is fully responsive with three main breakpoints:
 - Mobile: < 768px
 - Tablet: 768px - 1024px
 - Desktop: > 1024px
-
-## 🔍 SEO
-
-Update the metadata in `index.html` to improve SEO:
-- Title
-- Description
-- Open Graph tags
-- Twitter card tags
-
-## 🤝 Contributing
-
-1. Create a new branch for your changes
-2. Make your changes
-3. Test locally
-4. Create a pull request
-5. Wait for review and merge
 
 ## 📄 License
 
