@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "title": "RAG Evaluation Framework",
+      "description": "Developing comprehensive evaluation metrics for Retrieval-Augmented Generation systems, focusing on accuracy, relevance, and fairness.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1200",
+      "tags": ["RAG", "Evaluation", "LLMs"],
+      "link": "https://example.com/project"
+    },
+    {
+      "title": "Ethical AI Development",
+      "description": "Research into developing and implementing ethical guidelines for AI system development and deployment.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200",
+      "tags": ["Ethics", "AI", "Guidelines"],
+      "link": "https://example.com/ethics-project"
+    }
+  ]
+}

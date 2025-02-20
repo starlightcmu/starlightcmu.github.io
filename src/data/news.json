@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "date": "March 15, 2024",
+      "title": "New Paper Accepted at ACL 2024",
+      "content": "Our work on comprehensive LLM evaluation frameworks has been accepted at ACL 2024."
+    },
+    {
+      "date": "March 1, 2024",
+      "title": "Research Grant Awarded",
+      "content": "Received NSF grant for studying fairness in retrieval-augmented generation systems."
+    },
+    {
+      "date": "February 20, 2024",
+      "title": "New Lab Members",
+      "content": "Welcome to our new PhD students joining the Starlight Lab!"
+    },
+    {
+      "date": "February 1, 2024",
+      "title": "Workshop Success",
+      "content": "Successfully hosted the first Starlight Lab Workshop on LLM Evaluation."
+    },
+    {
+      "date": "January 15, 2024",
+      "title": "Industry Collaboration",
+      "content": "New partnership with leading tech company for RAG research."
+    }
+  ]
+}

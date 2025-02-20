@@ -1,0 +1,22 @@
+{
+  "publications": [
+    {
+      "title": "Evaluating Large Language Models: A Comprehensive Framework",
+      "authors": ["Fernando Diaz", "Jane Smith", "John Doe"],
+      "venue": "ACL 2024",
+      "year": 2024,
+      "pdf": "https://example.com/paper.pdf",
+      "code": "https://github.com/example/code",
+      "abstract": "We present a comprehensive framework for evaluating large language models across multiple dimensions including fairness, reliability, and performance."
+    },
+    {
+      "title": "Fairness in Retrieval-Augmented Generation",
+      "authors": ["Sarah Chen", "Fernando Diaz", "Michael Park"],
+      "venue": "EMNLP 2024",
+      "year": 2024,
+      "pdf": "https://example.com/rag-paper.pdf",
+      "code": "https://github.com/example/rag-code",
+      "abstract": "An investigation into fairness considerations in RAG systems, proposing novel metrics and mitigation strategies."
+    }
+  ]
+}

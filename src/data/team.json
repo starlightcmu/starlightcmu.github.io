@@ -1,0 +1,40 @@
+{
+  "labMembers": [
+    {
+      "name": "Prof. Fernando Diaz",
+      "role": "Principal Investigator",
+      "bio": "Professor at Carnegie Mellon University, leading research in LLM evaluation, RAG systems, and AI ethics. Focus on developing fair and ethical AI systems.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400&h=400",
+      "links": {
+        "google_scholar": "https://scholar.google.com",
+        "github": "https://github.com",
+        "website": "https://example.com",
+        "email": "fdiaz@cs.cmu.edu",
+        "linkedin": "https://linkedin.com/in/example"
+      }
+    },
+    {
+      "name": "Sarah Chen",
+      "role": "PhD Student",
+      "bio": "Researching fairness and bias in large language models. Developing novel evaluation frameworks for assessing model performance across diverse populations.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=400&h=400",
+      "links": {
+        "google_scholar": "https://scholar.google.com",
+        "github": "https://github.com",
+        "email": "schen@cs.cmu.edu",
+        "linkedin": "https://linkedin.com/in/example"
+      }
+    },
+    {
+      "name": "Michael Park",
+      "role": "PhD Student",
+      "bio": "Working on retrieval-augmented generation systems with a focus on improving context relevance and factual accuracy.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400&h=400",
+      "links": {
+        "google_scholar": "https://scholar.google.com",
+        "email": "mpark@cs.cmu.edu",
+        "linkedin": "https://linkedin.com/in/example"
+      }
+    }
+  ]
+}
